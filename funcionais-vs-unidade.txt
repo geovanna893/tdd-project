@@ -1,0 +1,3 @@
+Duas diferenças, que tem bastante relevância, entre o teste de unidade e o teste funcional é que o de unidade não depende de recursos externos,
+enquanto o funcional precisa pois ele usa uma ferramenta para simular ações reais de um usuário. Outra questão relevante é que o teste de unidade 
+é mais rápido pois ele testa apenas uma parte do sistema/código, já o funcional  testa o sistema como um todo, e assim ele se torna mais demorado.
